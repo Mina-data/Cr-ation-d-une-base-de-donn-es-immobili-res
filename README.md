@@ -1,4 +1,4 @@
-Présentation de mon projet ceation d'une base de donnée immobiliere avec SQL 
+Présentation de mon projet creation d'une base de donnée immobiliere avec SQL 
 Contexte du projet
 plan
 Requetedes requetes  SQL pour repondre à un problematique métier ( immobilier en France)  : 
